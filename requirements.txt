@@ -1,0 +1,9 @@
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+jupyterlab
+pathlib
+spacy
+beautifulsoup4
+pyarrow==14.0.1
