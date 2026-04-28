@@ -7,3 +7,16 @@ pathlib
 spacy
 beautifulsoup4
 pyarrow==14.0.1
+scikit-learn
+xgboost
+torch
+transformers
+sentence-transformers
+fastapi
+uvicorn
+joblib
+python-multipart
+pydantic
+django
+djangorestframework
+tqdm
